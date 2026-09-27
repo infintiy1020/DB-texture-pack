@@ -1,4 +1,5 @@
 https://github.com/user-attachments/files/32697638/byebye.mp3 (kill sound)
-https://github.com/user-attachments/assets/fb286657-6860-4855-a11e-e2b3d65d88b1 (wall) (Devil)
-https://github.com/user-attachments/assets/a188196b-0398-4ef5-96d1-298560414225 (Blox)
- (devil blox)
+https://github.com/user-attachments/assets/fb286657-6860-4855-a11e-e2b3d65d88b1 (wall)
+https://github.com/user-attachments/assets/cc998db4-5de5-47fb-81f7-1ce11c547c93 (Devil)
+https://github.com/user-attachments/assets/b5dd60d5-cc20-4f7e-b291-5d8637279373 (Blox)
+https://github.com/user-attachments/assets/8e60d817-57d8-4270-a4ce-593dded4c671 (devil blox)
